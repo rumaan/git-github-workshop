@@ -5,5 +5,6 @@
 3. Tissues 🚽
 4. Bread 🍞
 5. Chockieeees !
+6. bfgalinsd
 
 // TODO: add more items to the shopping list.
