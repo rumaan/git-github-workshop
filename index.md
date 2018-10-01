@@ -5,5 +5,6 @@
 3. Tissues 🚽
 4. Bread 🍞
 5. Milk
+6. mangoes
 
 // TODO: add more items to the shopping list.
