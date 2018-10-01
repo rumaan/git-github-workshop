@@ -11,6 +11,7 @@
 9. chickoo
 10. pizza
 11. Books
+12. Patanjali paste
 
 // TODO: add more items to the shopping list.
 
