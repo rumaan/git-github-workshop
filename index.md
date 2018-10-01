@@ -10,6 +10,7 @@
 8. ice cream
 9. chickoo
 10. pizza
+11. Books
 
 // TODO: add more items to the shopping list.
 
