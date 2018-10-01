@@ -13,6 +13,3 @@
 11. Books
 12. Patanjali paste
 13. Sushi
-
-// TODO: add more items to the shopping list.
-
