@@ -1,4 +1,3 @@
-
 ## My Shopping List 🛒
 
 1. Apples 🍎
@@ -8,5 +7,7 @@
 5. Milk
 6. mangoes
 7. Chocholates
+8. ice cream
 
 // TODO: add more items to the shopping list.
+
