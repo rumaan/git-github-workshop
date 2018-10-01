@@ -4,7 +4,12 @@
 2. Oranges 🍊
 3. Tissues 🚽
 4. Bread 🍞
-5. pizza
-6. 
+5. Milk
+6. mangoes
+7. Chocholates
+8. ice cream
+9. chickoo
+10. pizza
 
 // TODO: add more items to the shopping list.
+
