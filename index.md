@@ -8,6 +8,7 @@
 6. mangoes
 7. Chocholates
 8. ice cream
+9. chickoo
 
 // TODO: add more items to the shopping list.
 
