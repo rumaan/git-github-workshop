@@ -16,4 +16,7 @@
 14. Sandwiches
 15. Cheese
 16. pen
+17. Pinapples
+18. Deodrant
+19. Toothpaste
 
