@@ -21,3 +21,30 @@
 19. Toothpaste
 20. Pasteries
 21. Jam
+
+
+
+## Men Clothings
+
+- Sweater
+- T-Shirt
+- Shirt
+- Gloves
+- Cap
+- Suit
+- Hawaiian shirt
+- Singlet
+- Business Shoes
+- Flip flops
+- Shorts
+- Cardigans
+- Sports Shoes
+- Tie
+- Goggles
+- Watch
+- Blazer
+- Bow tie
+- Sleeveless shirt
+- Vest
+- Polo shirt
+
