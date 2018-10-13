@@ -1,4 +1,4 @@
-## My Shopping List 🛒
+﻿## My Shopping List 🛒
 
 1. Apples 🍎
 2. Oranges 🍊
@@ -21,6 +21,8 @@
 19. Toothpaste
 20. Pasteries
 21. Jam
+22. bread
+
 
 
 
