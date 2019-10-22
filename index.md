@@ -21,6 +21,7 @@
 19. Toothpaste
 20. Pasteries
 21. Jam
+22. Cheese
 
 
 ## Men Clothings
@@ -46,4 +47,5 @@
 - Sleeveless shirt
 - Vest
 - Polo shirt
+- Suspenders
 
